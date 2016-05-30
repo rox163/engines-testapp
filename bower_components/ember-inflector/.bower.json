@@ -1,0 +1,26 @@
+{
+  "name": "ember-inflector",
+  "version": "1.3.1",
+  "dependencies": {
+    "ember": ">= 1.0.0 < 2.0.0"
+  },
+  "devDependencies": {
+    "jquery": "~1.11.1",
+    "handlebars": "~1.3.0",
+    "loader.js": "~1.0.0"
+  },
+  "ignore": [
+    "dist/ember-inflector.jshint.js",
+    "dist/tests.js"
+  ],
+  "homepage": "https://github.com/fivetanley/ember-inflector-bower",
+  "_release": "1.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.3.1",
+    "commit": "8e36183d286d53e3a4762003409bed300e90dc4d"
+  },
+  "_source": "https://github.com/fivetanley/ember-inflector-bower.git",
+  "_target": "1.3.1",
+  "_originalSource": "ember-inflector"
+}
