@@ -2,4 +2,10 @@
 
 {{#link-to "blog"}}Blog{{/link-to}}
 
+<button onclick={{action 'btnHandler'}}>Trigger the service</button>
+<br>
+{{#if showNewNav}}
+<button>New button</button>
+{{/if}}
+
 {{outlet}}
